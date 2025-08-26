@@ -8,7 +8,7 @@ I started with C++ when I discovered the Arduino platform as a child. Later, I b
 
 *   🌍  I'm based in Ukraine
 *   🧠  I'm currently learning JS, Python and HTML/CSS
-*   💬  Ask me about I'm a little bit psycho :)
+*   💬  I'm a little bit psycho :)
 
 ### Badges
 <p align="left">
