@@ -16,10 +16,8 @@ I started with C++ when I discovered the Arduino platform as a child. Later, I b
 
 <b>My GitHub Stats</b>
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=DemLoVi&theme=react-gruvbox&hide_border=true)
-
-![DeLo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DemLoVi&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DemLoVi&theme=gruvbox)
+![DeLo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DemLoVi&show_icons=true&theme=nord)
+[![GitHub Streak](https://github-readme-streak-stats-lemon-delta.vercel.app?user=DemLoVi&theme=nord)](https://git.io/streak-stats)
 
 
 <b>Top Repositories</b>          
